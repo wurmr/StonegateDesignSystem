@@ -1,0 +1,15 @@
+﻿body {
+  font-family: Arial;
+}
+.sectionHeading{
+    color: #0081C9;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: x-large;
+	bottom: 20px;
+	margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
