@@ -1,6 +1,0 @@
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\bin\StonegateDesignSystem.dll.config
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\bin\StonegateDesignSystem.dll
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\bin\StonegateDesignSystem.pdb
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\obj\Debug\StonegateDesignSystem.csprojResolveAssemblyReference.cache
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\obj\Debug\StonegateDesignSystem.dll
-c:\Projects\StonegateDesignSystem\StonegateDesignSystem\StonegateDesignSystem\obj\Debug\StonegateDesignSystem.pdb
