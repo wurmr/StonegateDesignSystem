@@ -70,15 +70,25 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets.html" />
+    <Content Include="branding.html" />
+    <Content Include="canvas.html" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\style.css" />
+    <Content Include="documents.html" />
+    <Content Include="elements.html" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
+    <Content Include="layout.html" />
+    <Content Include="media.html" />
+    <Content Include="navigation.html" />
+    <Content Include="overview.html" />
+    <Content Include="typography.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -12,4 +12,11 @@
     margin-top: 10px;
 }
 
+a.nodecoration:link,
+a.nodecoration:visited,
+a.nodecoration:hover  
+{  
+    text-decoration:none;  
+    color:black;
+}  
 
